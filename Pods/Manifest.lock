@@ -1,0 +1,20 @@
+PODS:
+  - HPOpenWeather (2.0.2)
+  - Realm (3.17.0):
+    - Realm/Headers (= 3.17.0)
+  - Realm/Headers (3.17.0)
+  - RealmSwift (3.17.0):
+    - Realm (= 3.17.0)
+
+DEPENDENCIES:
+  - HPOpenWeather
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  HPOpenWeather: b83b80fa332b4676c6e6af72c80fb8c42c71eac4
+  Realm: b30db41ff34fc858ffc25ba8d44a82c164e7ccd0
+  RealmSwift: fe733e459d60dc7b6971d4cbee2eb4854097d12c
+
+PODFILE CHECKSUM: 9acf228ef9052bcd3b150b0608d516c122089014
+
+COCOAPODS: 1.1.1
